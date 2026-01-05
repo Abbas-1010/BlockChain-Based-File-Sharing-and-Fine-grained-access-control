@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\Project\\Backend\\contracts\\FileStorage.sol": {
+      "lastModificationDate": 1767113955860,
+      "contentHash": "2d6e11c5dc0a52a6db2f94fd076abb45",
+      "sourceName": "contracts/FileStorage.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.28"
+      ],
+      "artifacts": [
+        "FileStorage"
+      ]
+    }
+  }
+}
